@@ -1,0 +1,52 @@
+#Sample Text to regex through
+<a
+            class="itunes-link"
+            href="https://itunes.apple.com/us/podcast/who-stole-what/id840274478?mt=2&amp;uo=4&amp;at=10lPNj"
+            data-track-action="Podmass Article: iTunes"
+            data-track-label="https://itunes.apple.com/us/podcast/who-stole-what/id840274478?mt=2&amp;uo=4&amp;at=10lPNj"
+            target="_blank">
+            <img src="//assets3.onionstatic.com/onionstatic/avclub/static/core/img/itunes-subscribe.svg">
+          </a>
+
+        </div>
+        <div class="podmass-entry-text">
+          <p>We come upon it all the time, but we hardly think anything of it—men flaunting their virility and masculinity on stage while their singing voices soar in a register that few of their female fans could ever hope to reach. That’s falsetto at work, and it’s been a part of the Western musical tradition since perhaps the 13th century. Most music listeners take its use for granted, without granting much consideration to the physiological process by which the ligamentous edges of the singer’s vocal cords are manipulated to produce incongruously high-pitched intonation. In this succinct special musicology episode of <i>Who Stole What?</i>, Tristan and Rory Shields give an excellent introductory course on this vocal technique, explaining what it is and what it is not, how it’s achieved and its place in musical history. While it’s doubtful that many listeners were asking the questions that get answered here, any who take the time to listen to this 14-minute explainer will likely appreciate the edification and may well return to their own music collections with a slightly better understanding how their building blocks. Doubly so if their collections are heavy on ’80s hair metal.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author"
+        href="/author/DennisDiClaudio/"
+        data-track-action="Podmass Article: Author"
+        data-track-label="/author/DennisDiClaudio/">Dennis DiClaudio</a></span>]
+        </div>
+      </div>
+
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Write Club
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a
+              href="http://www.writeclubnation.com/podcast/2016/5/3/hawk-vs-dove-episode-12"
+              data-track-action="Podmass Article: Episode"
+              data-track-label="http://www.writeclubnation.com/podcast/2016/5/3/hawk-vs-dove-episode-12"
+              target="_blank">
+              Hawk Vs. Dove
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image"  class="image crop-1x1" data-image-id="581818">
+        <div>
+            <noscript>
+                <img src="http://i.onionstatic.com/avclub/5818/18/1x1/150.jpg" >
+            </noscript>
+        </div>
+    </div>
+
+
+
+
+</figure>
