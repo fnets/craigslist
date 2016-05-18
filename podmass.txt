@@ -1,5 +1,0 @@
-import requests
-
-r = requests.get('http://www.avclub.com/feed/rss/?feature_types=podmass')
-
-print r
