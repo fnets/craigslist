@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 https://itunes.apple.com/us/podcast/axe-files-david-axelrod/id1043593599?mt=2&amp;uo=4&amp;at=10lPNj
-<<<<<<< HEAD
 =======
 <!DOCTYPE html>
 <html>
@@ -3436,5 +3435,3 @@ https://itunes.apple.com/us/podcast/axe-files-david-axelrod/id1043593599?mt=2&am
     </body>
 </html>
 >>>>>>> parent of 35aff13... Workable output
-=======
->>>>>>> 18df0c0... Feedparser Fail

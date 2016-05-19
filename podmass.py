@@ -16,7 +16,6 @@ for y in xrange(0,len(page_links)):
 		itunes_links.append(re.findall('(?<=href=").*itunes.*(?=")', page_links[y].text)) #searches through currently accessed podmass pages' download links for itunes links.
 		f.write(itunes_links[0][y].encode('utf8')+"\n") #writes added link to file
 
-<<<<<<< HEAD
 for x in xrange(1,len(r)):
 	urls = requests.get(r.entries[x].link) #scrapes HTML of each page that is linked in RSS feed
 	parsed_urls = feedparser.parse(urls.url)
@@ -33,30 +32,6 @@ for itunes in links:
 	
 	#for y in xrange(1,len(page_links)): 
 		
-=======
-page_links.append(requests.get(r.entries[0].link))
-for y in xrange(0,len(page_links)): 
-		
-		itunes_links.append(re.findall('(?<=href=").*itunes.*(?=")', page_links[y].text)) #searches through currently accessed podmass pages' download links for itunes links.
-		f.write(itunes_links[0][y].encode('utf8')+"\n") #writes added link to file
-
-for x in xrange(1,len(r)):
-	urls = requests.get(r.entries[x].link) #scrapes HTML of each page that is linked in RSS feed
-	parsed_urls = feedparser.parse(urls.url)
-	
-	#links = parsed_urls.entries[0].link
-	#print links
-print parsed_urls.entries[0].link
-
-for itunes in links:
-	print type(links) #.entries.link
-	#page_links.append(links.entries[0].link)
-	#if page_links[x][y] == page_links[x][y-1]:
-		#print x,y	
-	
-	#for y in xrange(1,len(page_links)): 
-		
->>>>>>> 18df0c0... Feedparser Fail
 		#itunes_links.append(re.findall('(?<=href=").*itunes.*(?=")', page_links[y].text)) #searches through currently accessed podmass pages' download links for itunes links.
 		#f.write(itunes_links[x][y].encode('utf8')+"\n") #writes added link to file
 		
