@@ -1,0 +1,2710 @@
+<!DOCTYPE html>
+<!-- saved from url=(0126)http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire-%2D236417?utm_medium=RSS&amp;utm_campaign=feeds -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script id="facebook-jssdk" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/all.js"></script><script async="" type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/gpt.js"></script><script async="" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/fbevents.js"></script><script async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="http://cdn.taboola.com/libtrc/theonion-avclub/loader.js"></script><script async="" src="http://c2.taboola.com/nr/theonion-avclub/newsroom.js"></script><script src="http://cdn.optimizely.com/js/4976631536.js"></script><style type="text/css">:root .advertisement,
+:root #personals_content,
+:root .header-ad-wrapper,
+:root .dfp-slot-wallpaper
+{display:none !important;}</style><style>iframe[src="http://disqusads.com/ads-iframe/taboola/?category=entertainment&service=dynamic&safetylevel=30&variant=fallthrough&thumbnails_allowed=0&experiment=network_default&forum_pk=836235&provider=taboola&position=bottom&shortname=avclub&forum_shortname=avclub&anchorColor=%23111111&colorScheme=light&sourceUrl=http%3A%2F%2Fwww.avclub.com%2Fdetail%2Fjon-stewart-talks-trumps-tiny-hands-and-alec-baldw-236816%3Futm_medium%3DRSS%26amp%3Butm_campaign%3Dfeeds&typeface=sans-serif&disqus_version=5827dca"],
+iframe[src="http://disqusads.com/ads-iframe/taboola/?category=entertainment&service=dynamic&safetylevel=30&variant=fallthrough&thumbnails_allowed=0&experiment=network_default&forum_pk=836235&provider=taboola&position=bottom&shortname=avclub&forum_shortname=avclub&anchorColor=%23111111&colorScheme=light&sourceUrl=http%3A%2F%2Fwww.avclub.com%2Fdetail%2Fmostly-lit-drinks-lemonade-discusses-warsan-shire--236417%3Futm_medium%3DRSS%26amp%3Butm_campaign%3Dfeeds&typeface=sans-serif&disqus_version=5827dca"]
+{display:none !important;}</style>
+        
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="
+  
+">
+        <meta name="keywords" content="">
+        
+        <meta property="fb:app_id" content="130164583741660">
+        <meta property="fb:pages" content="39581755672">
+        <meta name="twitter:site" content="@TheAVClub">
+        
+
+        
+  <meta property="og:title" content="Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé"><meta property="og:url" content="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417"><meta property="og:image" content="http://i.onionstatic.com/avclub/5810/53/16x9/1200.jpg"><meta property="og:type" content="article"><meta property="article:publisher" content="https://www.facebook.com/theavclub"><meta property="article:published_time" content="2016-05-09T12:25:00-05:00">
+
+
+        
+  <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé"><meta name="twitter:description" content=""><meta property="twitter:image" content="http://i.onionstatic.com/avclub/5810/53/16x9/1200.jpg">
+
+
+        <title>
+  Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé
+  
+    · Podmass
+  
+   · The A.V. Club
+</title>
+
+        
+        <link href="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/avclub.main.42fc20572334.css" rel="stylesheet" type="text/css">
+        <link rel="shortcut icon" href="http://assets3.onionstatic.com/onionstatic/avclub/static/core/img/favicons/favicon.ico" type="image/x-icon">
+
+        
+          <link href="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/avclub.video.2cde3cad52fb.css" rel="stylesheet" type="text/css">
+        
+        
+        
+
+        <!--[if lte IE 8]>
+            <script type="text/javascript" src="//assets3.onionstatic.com/onionstatic/avclub/static/core/js/vendor/ie-polyfills.js"></script>
+            <script type="text/javascript" src="//assets3.onionstatic.com/onionstatic/avclub/static/respond/src/respond.js"></script>
+
+            <link href="//assets3.onionstatic.com/onionstatic/avclub/static/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+            <link href="/static/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+            <script src="/static/respond/cross-domain/respond.proxy.js"></script>
+
+            <link rel="stylesheet" type="text/css" href="//assets3.onionstatic.com/onionstatic/avclub/static/core/css/ie8.css"></link>
+        <![endif]-->
+
+        <!--[if IE 9]>
+            <link rel="stylesheet" type="text/css" href="//assets3.onionstatic.com/onionstatic/avclub/static/core/css/ie9.css"></link>
+        <![endif]-->
+
+        <!--[if IE]>
+            <script type="text/javascript" src="//assets3.onionstatic.com/onionstatic/avclub/static/base64/base64.js"></script>
+        <![endif]-->
+
+        
+  <script>
+    window.TARGETING = {
+      
+        'dfp_slug': 'mostly-lit-drinks-lemonade-discusses-warsan-shire-',
+      
+        'dfp_site': 'newavclub',
+      
+        'dfp_section': 'comedy-bang-bang',
+      
+        'dfp_campaign': 'None',
+      
+        'dfp_pagetype': 'podmass',
+      
+        'dfp_publishdate': '2016-05-09T17:25:00+00:00',
+      
+        'dfp_feature': 'podmass',
+      
+        'dfp_title': '&lt;i&gt;Mostly Lit &lt;/i&gt;drinks the &lt;i&gt;Lemonade&lt;/i&gt;, discusses Warsan Shire and Beyoncé',
+      
+        'dfp_contentid': '236417',
+      
+        'dfp_evergreen': 'False',
+      
+    };
+  </script>
+
+
+
+        
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "&lt;i&gt;Mostly Lit &lt;/i&gt;drinks the &lt;i&gt;Lemonade&lt;/i&gt;, discusses Warsan Shire and Beyoncé",
+      "url": "http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417",
+      "thumbnailUrl": "http://i.onionstatic.com/avclub/5810/53/16x9/1200.jpg",
+      "dateCreated": "2016-05-09T12:25:00-05:00",
+      "articleSection": "Podmass",
+      "creator": {
+        
+        "@type": "Person",
+        "name": "Tim Barnes",
+        "sameAs": "http://www.avclub.com/author/timbarnesfilm/"
+        
+      },
+      "keywords": ["Songs You&amp;#8217;re Sick Of", "Mostly Lit", "The Dinner Party Download", "Doughboys", "Fresh Air", "With Special Guest Lauren Lapkus", "Trumpcast", "The Heart", "Comedy Bang! Bang!", "Someone Else&amp;#8217;s Movie", "Design Matters", "Gilmore Guys", "This American Life"]
+    }
+  </script>
+
+
+        <script type="text/javascript">
+          // global configs
+          window.BETTY_IMAGE_URL = "//i.onionstatic.com/avclub";
+          window.RV_NO_AUTOPLAY = false;
+          window.STATIC_URL = "//assets3.onionstatic.com/onionstatic/avclub/static/";
+          window.VIDEOHUB_BASE_URL = "//www.onionstudios.com";
+        </script>
+        
+  <script>
+    __reach_config = {
+      pid: "544948b8e79548c37a00016e",
+      title: "Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé",
+      url: "http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417",
+      date: "2016-05-09T12:25:00-05:00",
+      authors: ["Tim Barnes","Rebecca Bulnes","Ben Cannon","Dennis DiClaudio","Colin Griffith","B.G. Henne","Ashley Ray-Harris"],
+      channels: ["podmass"],
+      tags: ["Songs You&amp;#8217;re Sick Of","Mostly Lit","The Dinner Party Download","Doughboys","Fresh Air","With Special Guest Lauren Lapkus","Trumpcast","The Heart","Comedy Bang! Bang!","Someone Else&amp;#8217;s Movie","Design Matters","Gilmore Guys","This American Life"],
+      iframe: true,
+      ignore_errors: false
+    };
+  </script>
+
+  <script>
+    window._newsroom = window._newsroom || [];
+    !function (e, f, u) {
+      e.async = 1;
+      e.src = u;
+      f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+      document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/theonion-avclub/newsroom.js');
+  </script>
+  
+    <script type="text/javascript">
+      window.disqus_identifier = 'avclub_article_236417';
+      window.disqus_title = '&lt;i&gt;Mostly Lit &lt;/i&gt;drinks the &lt;i&gt;Lemonade&lt;/i&gt;, discusses Warsan Shire and Beyoncé';
+      window.disqus_url = 'http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417';
+    </script>
+  
+
+        <script src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/image.js"></script>
+
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            window.TARGETING = window.TARGETING || {};
+
+            if (window.TARGETING.dfp_pagetype && window.TARGETING.dfp_pagetype.indexOf("video") > -1) {
+                _taboola.push({video:'auto'});
+            } else {
+                _taboola.push({article:'auto'});
+            }
+
+            !function (e, f, u) {
+                e.async = 1;
+                e.src = u;
+                f.parentNode.insertBefore(e, f);
+            }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/theonion-avclub/loader.js');
+        </script>
+
+        <script type="text/javascript">
+          adroll_adv_id = "YW6PA6BGW5BJ3HFR27GH2F";
+          adroll_pix_id = "7QQQU4KAANGLNC26DID3BL";
+          (function () {
+            var _onload = function(){
+              if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+              if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+              var scr = document.createElement("script");
+              var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+              scr.setAttribute('async', 'true');
+              scr.type = "text/javascript";
+              scr.src = host + "/j/roundtrip.js";
+              ((document.getElementsByTagName('head') || [null])[0] ||
+                  document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            };
+            if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+            else {window.attachEvent('onload', _onload)}
+          }());
+        </script>
+
+      <!-- Sourcepoint -->
+      <script async="async" type="text/javascript" src="http://d2lv4zbk7v5f93.cloudfront.net/esf.js" data-client-id="rmusooKfKJPYJhy"></script>
+    <script async="" type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/count.js"></script><style type="text/css"> .vjs-youtube .vjs-poster { background-size: 100%!important; }.vjs-youtube .vjs-poster, .vjs-youtube .vjs-loading-spinner, .vjs-youtube .vjs-big-play-button, .vjs-youtube .vjs-text-track-display{ pointer-events: none !important; }.vjs-youtube.vjs-user-active .iframeblocker { display: none; }.vjs-youtube.vjs-user-inactive .vjs-tech.onDesktop { pointer-events: none; }.vjs-quality-button > div:first-child > span:first-child { position:relative;top:7px }</style><script type="text/javascript" async="" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/embed.js"></script><script src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/count-data.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style><script async="true" type="text/javascript" src="http://a.adroll.com/j/roundtrip.js"></script></head>
+    <body name="top" class="
+  
+  
+  article-detail use-disqus
+    
+      comedy-bang-bang
+
+  podmass
+
+  
+    type-coverstory
+  
+" style="padding-top: 40px;">
+
+      
+
+      
+  <div class="header-ad-wrapper">
+    <div class="dfp dfp-slot-header-md-lg js-top-ad" data-ad-unit="header-md-lg">
+</div>
+
+  </div>
+
+
+      
+  <div id="h" class="header-container h-fixed h-compact">
+    
+    
+<header id="header-default" data-track-category="Nav" class="h wrapper clearfix">
+  <h1 class="title">
+    <a href="http://www.avclub.com/" data-track-action="Content: Logo" data-track-label="/">
+      <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/avclub-logo.png" title="A.V. Club">
+    </a>
+  </h1>
+  <div class="site-nav cell">
+    <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" class="dropdown-trigger toolbar-button" data-track-action="Content: Flyout Toggle" data-track-label="#">
+      <i class="icon fa fa-bars fa-fw"></i>
+    </a>
+  </div>
+  <nav class="verticals">
+    <ul data-track-action="Content: Sections" class="unstyled inline">
+      <li>
+  <a class="film badge" href="http://www.avclub.com/film/" data-track-label="/film/">
+    Film
+  </a>
+</li>
+<li>
+  <a class="tv badge" href="http://www.avclub.com/tv/" data-track-label="/tv/">
+    TV Club
+  </a>
+</li>
+<li>
+  <a class="music badge" href="http://www.avclub.com/music/" data-track-label="/music/">
+    Music
+  </a>
+</li>
+<li>
+  <a class="comedy badge" href="http://www.avclub.com/comedy/" data-track-label="/comedy/">
+    Comedy
+  </a>
+</li>
+<li>
+  <a class="books badge" href="http://www.avclub.com/books/" data-track-label="/books/">
+    Books
+  </a>
+</li>
+<li>
+  <a class="games badge" href="http://www.avclub.com/games/" data-track-label="/games/">
+    Games
+  </a>
+</li>
+<li>
+  <a class="aux badge" href="http://www.avclub.com/aux/" data-track-label="/aux/">
+    Aux
+  </a>
+</li>
+      <li class="more">
+        <a class="dropdown-trigger  badge other" href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" data-track-action="Content: More" data-track-label="#">
+          More <i class="icon fa fa-caret-down"></i>
+        </a>
+      </li>
+    </ul>
+  </nav>
+  
+    <div class="current-article">
+      <span class="progress-bar" style="transform: translateX(-71%);"></span>
+      <h1>
+        <i>Mostly Lit </i>drinks the <i>Lemonade</i>, discusses Warsan Shire and Beyoncé
+        
+      </h1>
+    </div>
+  
+  <div class="options">
+     
+    
+      <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417#comments" class="cell comments toolbar-button see-comments" data-track-action="Podmass Article: Meta: Share: Header" data-track-label="Comments">
+        <i class="icon fa fa-comments fa-fw"></i>
+      </a>
+      <div class="cell social">
+        <a class="toolbar-button" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417fsd" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=285,width=500&#39;);return false;" data-track-action="Podmass Article: Meta: Share: Header" data-track-label="Facebook">
+            <i class="icon fa fa-facebook fa-fw"></i>
+        </a>
+        <a class="toolbar-button" href="https://twitter.com/share?text=Mostly%20Lit%20drinks%20the%20Lemonade,%20discusses%20Warsan%20Shire%20and%20Beyonc%C3%A9&amp;url=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417tsd&amp;via=TheAVClub&amp;related=TheAVClub" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=350,width=475&#39;);return false;" data-track-action="Podmass Article: Meta: Share: Header" data-track-label="Twitter">
+            <i class="icon fa fa-twitter fa-fw"></i>
+        </a>
+      </div>
+    
+    
+    <div class="cell user">
+      <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" data-toggle="dropdown" data-target="#settings-menu" class="toolbar-button login-icon" data-track-action="Content: User" data-track-label="#">
+        <i class="icon fa fa-user fa-fw"></i>
+        <i class="icon fa fa-gear fa-fw"></i>
+      </a>
+      <div id="settings-menu" class="dropdown"></div>
+    </div>
+    <div class="cell mr">
+      <a class="toggle" id="most-read" href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" data-target=".most-read.flyout" data-toggle="dropdown">
+        Most Read
+      </a>
+      <div class="most-read flyout">
+	<h3>A.V. Club Most Read</h3>
+	
+		
+<article class="short" data-track-action="None: Most Read: Article: 1" data-track-label="/tvclub/another-arrow-season-just-sort-ends-237351">
+  <div class="picture">
+    <a href="http://www.avclub.com/tvclub/another-arrow-season-just-sort-ends-237351">
+      <span class="number">
+        <span class="label">
+          1
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583183" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/83/1x1/200.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200.jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/tvclub/another-arrow-season-just-sort-ends-237351">
+        Another <i>Arrow</i> season just sort of ends
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="None: Most Read: Article: 2" data-track-label="/article/captain-america-apparently-bad-guy-now-237347">
+  <div class="picture">
+    <a href="http://www.avclub.com/article/captain-america-apparently-bad-guy-now-237347">
+      <span class="number">
+        <span class="label">
+          2
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583174" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/74/1x1/200.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(1).jpg"></div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Image: Marvel Comics, Jesus Saiz)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/article/captain-america-apparently-bad-guy-now-237347">
+        Captain America is apparently a bad guy now
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="None: Most Read: Article: 3" data-track-label="/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+  <div class="picture">
+    <a href="http://www.avclub.com/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+      <span class="number">
+        <span class="label">
+          3
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583067" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5830/67/1x1/200.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(2).jpg"></div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Will Toledo of Car Seat Headrest (Photo: Matador Records)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 26
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+        How an indie rock band’s well-intentioned homage became a $50,000 mistake<i></i>
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="None: Most Read: Article: 4" data-track-label="/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+  <div class="picture">
+    <a href="http://www.avclub.com/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+      <span class="number">
+        <span class="label">
+          4
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583167" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/67/1x1/200.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(3).jpg"></div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Matthew Rhys (left), Frank Langella, Marceline Hugot (photo: FX/Eric Liebowitz)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+        The Jennings and Stan and Tim and Alice and a deliciously awkward <i>Americans</i> dinner
+      </a>
+    </div>
+  </div>
+</article>
+	
+  
+</div>
+    </div>
+    <form action="http://www.avclub.com/search/" class="site-search cell">
+      <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" class="trigger toolbar-button" data-track-action="Content: Search" data-track-label="#">
+        <i class="icon fa fa-search fa-fw"></i>
+      </a>
+      <div class="flyout" id="search-flyout" style="display: none;">
+        <input autocomplete="off" type="text" name="q" placeholder="Search The A.V. Club...">
+        <div id="search-results"></div>
+      </div>
+    </form>
+  </div>
+</header>
+
+<div id="expanded-nav" class="dropdown stacked" data-track-category="Nav" style="display: none;">
+  <div id="mobile-nav">
+    <div id="actions">
+      <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#" class="close" data-track-action="Content: Mobile: Close" data-track-label="#">
+        <i class="icon fa fa-times"></i>
+      </a>
+      <a href="http://www.avclub.com/users/me/settings/" class="login-icon" data-track-action="Content: Mobile: User" data-track-label="#">
+        <i class="icon fa fa-user"></i>
+        <i class="icon fa fa-gear"></i>
+      </a>
+    </div>
+    <ul class="unstyled" data-track-action="Content: Mobile: Links">
+      <li>
+        <a href="http://www.avclub.com/film/" class="type-link film" data-track-label="/film/">
+          Film
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/tv/" class="type-link tv-club" data-track-label="/tv/">
+          TV Club
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/music/" class="type-link music" data-track-label="/music/">
+          Music
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/comedy/" class="type-link comedy" data-track-label="/comedy/">
+          Comedy
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/books/" class="type-link books" data-track-label="/books/">
+          Books
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/games/" class="type-link games" data-track-label="/games/">
+          Games
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/aux/" class="type-link aux" data-track-label="/aux/">
+          Aux
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/features/newswire/" class="secondary" data-track-label="/features/newswire/">
+          Newswire
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/search?feature_types=movie-review&amp;feature_types=music-review&amp;comedy-feature_types=special-review&amp;feature_types=book-review&amp;tv-review" class="secondary" data-track-label="/search?feature_types=movie-review&amp;feature_types=music-review&amp;comedy-feature_types=special-review&amp;feature_types=book-review&amp;tv-review">
+          Reviews
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/search?feature_type=video" class="secondary" data-track-label="/search?feature_type=video">
+          Video
+        </a>
+      </li>
+      <li>
+        <a href="http://www.avclub.com/features/great-job-internet/" class="secondary" data-track-label="/features/great-job-internet/">
+          Great Job, Internet!
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="wrapper">
+    <nav class="verticals" data-track-action="Content: More: Sections">
+      <ul class="unstyled">
+        <li>
+  <a class="film type-link" href="http://www.avclub.com/film/" data-track-label="/film/">
+    Film
+  </a>
+</li>
+<li>
+  <a class="tv type-link" href="http://www.avclub.com/tv/" data-track-label="/tv/">
+    TV Club
+  </a>
+</li>
+<li>
+  <a class="music type-link" href="http://www.avclub.com/music/" data-track-label="/music/">
+    Music
+  </a>
+</li>
+<li>
+  <a class="comedy type-link" href="http://www.avclub.com/comedy/" data-track-label="/comedy/">
+    Comedy
+  </a>
+</li>
+<li>
+  <a class="books type-link" href="http://www.avclub.com/books/" data-track-label="/books/">
+    Books
+  </a>
+</li>
+<li>
+  <a class="games type-link" href="http://www.avclub.com/games/" data-track-label="/games/">
+    Games
+  </a>
+</li>
+<li>
+  <a class="aux type-link" href="http://www.avclub.com/aux/" data-track-label="/aux/">
+    Aux
+  </a>
+</li>
+      </ul>
+    </nav>
+    
+      
+  <div id="latest-slides">
+    <nav class="content-types tab-navigator">
+      <ul>
+        
+          <li class="active">
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#latestin-newswire" data-track-action="Content: Features: Type" data-track-label="Newswire">
+              <span>
+                Newswire
+              </span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#latestin-features" data-track-action="Content: Features: Type" data-track-label="Features">
+              <span>
+                Features
+              </span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#latestin-reviews" data-track-action="Content: Features: Type" data-track-label="Reviews">
+              <span>
+                Reviews
+              </span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#latestin-videos" data-track-action="Content: Features: Type" data-track-label="Videos">
+              <span>
+                Videos
+              </span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#latestin-gji" data-track-action="Content: Features: Type" data-track-label="Great Job, Internet!">
+              <span>
+                Great Job, Internet!
+              </span>
+            </a>
+          </li>
+        
+      </ul>
+    </nav>
+    <section class="latest-in tab-content">
+      
+        <div id="latestin-newswire" class="tab-pane active">
+          <h1>
+            <a href="http://www.avclub.com/features/newswire/" data-track-action="Content: Features: Newswire: All" data-track-label="/features/newswire/">
+              The Latest From Newswire
+            </a>
+          </h1>
+          
+            
+
+
+  <article class="item  music" data-track-action="Content: Features: Newswire: Article: 1" data-track-label="/article/multiple-people-have-been-shot-ti-concert-new-york-237350">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/multiple-people-have-been-shot-ti-concert-new-york-237350">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583182">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/82/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Photo: Getty Images)</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/multiple-people-have-been-shot-ti-concert-new-york-237350" title="Multiple people have been shot at a T.I. concert in New York" data-track-label="/article/multiple-people-have-been-shot-ti-concert-new-york-237350">
+		Multiple people have been shot at a T.I. concert in New York
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+            
+
+
+  <article class="item  film" data-track-action="Content: Features: Newswire: Article: 2" data-track-label="/article/original-fast-and-furious-coming-back-theaters-237338">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/original-fast-and-furious-coming-back-theaters-237338">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583181">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/81/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">The Fast And The Furious</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/original-fast-and-furious-coming-back-theaters-237338" title="The original The Fast And The Furious is coming back to theaters" data-track-label="/article/original-fast-and-furious-coming-back-theaters-237338">
+		The original <i>The Fast And The Furious</i> is coming back to theaters
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+        </div>
+      
+        <div id="latestin-features" class="tab-pane">
+          <h1>
+            <a href="http://www.avclub.com/search?types=core_article" data-track-action="Content: Features: Features: All" data-track-label="/search?types=core_article">
+              The Latest From Features
+            </a>
+          </h1>
+          
+            
+
+
+  <article class="item  tv" data-track-action="Content: Features: Features: Article: 1" data-track-label="/article/arrested-development-oral-history-cop-rock-236626">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/arrested-development-oral-history-cop-rock-236626">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="581467">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5814/67/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/arrested-development-oral-history-cop-rock-236626" title="Arrested development: An oral history of Cop Rock" data-track-label="/article/arrested-development-oral-history-cop-rock-236626">
+		Arrested development: An oral history of <i>Cop Rock</i>
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+            
+
+
+  <article class="item  tv" data-track-action="Content: Features: Features: Article: 2" data-track-label="/article/new-bet-documentary-examines-black-lives-matter-mo-237273">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/new-bet-documentary-examines-black-lives-matter-mo-237273">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="582987">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5829/87/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Stay Woke: The Black Lives Matter Movement (BET)</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/new-bet-documentary-examines-black-lives-matter-mo-237273" title="A new BET documentary examines the Black Lives Matter movement" data-track-label="/article/new-bet-documentary-examines-black-lives-matter-mo-237273">
+		A new BET documentary examines the Black Lives Matter movement
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+        </div>
+      
+        <div id="latestin-reviews" class="tab-pane">
+          <h1>
+            <a href="http://www.avclub.com/search?types=reviews_review" data-track-action="Content: Features: Reviews: All" data-track-label="/search?types=reviews_review">
+              The Latest From Reviews
+            </a>
+          </h1>
+          
+            
+
+
+  <article class="item  film" data-track-action="Content: Features: Reviews: Article: 1" data-track-label="/review/chevalier-sees-male-bonding-literal-dick-measuring-237279">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/review/chevalier-sees-male-bonding-literal-dick-measuring-237279">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="582997">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5829/97/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+        
+  <div class="grade letter color-me  film">
+    B
+  </div>
+
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Photo: Strand Releasing)</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/review/chevalier-sees-male-bonding-literal-dick-measuring-237279" title="Chevalier sees male bonding as a (literal) dick-measuring contest" data-track-label="/review/chevalier-sees-male-bonding-literal-dick-measuring-237279">
+		<i>Chevalier</i> sees male bonding as a (literal) dick-measuring contest
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+            
+
+
+  <article class="item  film" data-track-action="Content: Features: Reviews: Article: 2" data-track-label="/review/holy-hell-cult-survivor-shares-22-years-footage-in-237299">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/review/holy-hell-cult-survivor-shares-22-years-footage-in-237299">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583103">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/03/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+        
+  <div class="grade letter color-me  film">
+    B
+  </div>
+
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Photo: WRA Productions)</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/review/holy-hell-cult-survivor-shares-22-years-footage-in-237299" title="With Holy Hell, a cult survivor shares 22 years of footage from the inside" data-track-label="/review/holy-hell-cult-survivor-shares-22-years-footage-in-237299">
+		With<i> Holy Hell</i>, a cult survivor shares 22 years of footage from the inside
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+        </div>
+      
+        <div id="latestin-videos" class="tab-pane">
+          <h1>
+            <a href="http://www.avclub.com/search?types=core_video" data-track-action="Content: Features: Videos: All" data-track-label="/search?types=core_video">
+              The Latest From Videos
+            </a>
+          </h1>
+          
+            
+
+
+  <article class="item  tv" data-track-action="Content: Features: Videos: Article: 1" data-track-label="/video/nitpicking-hodor-scene-and-getting-weepy-about-it--237305">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/video/nitpicking-hodor-scene-and-getting-weepy-about-it--237305">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583065">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5830/65/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/video/nitpicking-hodor-scene-and-getting-weepy-about-it--237305" title="Nitpicking that Hodor scene and getting weepy about it anyway" data-track-label="/video/nitpicking-hodor-scene-and-getting-weepy-about-it--237305">
+		Nitpicking that Hodor scene and getting weepy about it anyway
+    
+      <span class="bug">
+        <span>&nbsp;</span>
+        <i class="icon fa fa-video-camera"></i>
+      </span>
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+            
+
+
+  <article class="item  music" data-track-action="Content: Features: Videos: Article: 2" data-track-label="/video/tacocat-covers-katy-perrys-roar-237239">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/video/tacocat-covers-katy-perrys-roar-237239">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="582921">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5829/21/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/video/tacocat-covers-katy-perrys-roar-237239" title="Tacocat covers Katy Perry’s “Roar”" data-track-label="/video/tacocat-covers-katy-perrys-roar-237239">
+		Tacocat covers Katy Perry’s “Roar”
+    
+      <span class="bug">
+        <span>&nbsp;</span>
+        <i class="icon fa fa-video-camera"></i>
+      </span>
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+        </div>
+      
+        <div id="latestin-gji" class="tab-pane">
+          <h1>
+            <a href="http://www.avclub.com/features/great-job-internet/" data-track-action="Content: Features: Great Job, Internet!: All" data-track-label="/features/great-job-internet/">
+              The Latest From Great Job, Internet!
+            </a>
+          </h1>
+          
+            
+
+
+  <article class="item  aux" data-track-action="Content: Features: Great Job, Internet!: Article: 1" data-track-label="/article/kid-perfectly-flips-water-bottle-and-internet-lose-237325">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/kid-perfectly-flips-water-bottle-and-internet-lose-237325">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583091">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5830/91/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Screenshot: https://twitter.com/Garrettjmelton/status/735180354437414913</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/kid-perfectly-flips-water-bottle-and-internet-lose-237325" title="A kid perfectly flips a water bottle, and the internet loses its mind" data-track-label="/article/kid-perfectly-flips-water-bottle-and-internet-lose-237325">
+		A kid perfectly flips a water bottle, and the internet loses its mind
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+            
+
+
+  <article class="item  tv" data-track-action="Content: Features: Great Job, Internet!: Article: 2" data-track-label="/article/celebrate-national-wine-day-these-tv-lushes-237330">
+    
+    
+    <a class="thumbnail" href="http://www.avclub.com/article/celebrate-national-wine-day-these-tv-lushes-237330">
+      <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="583106">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/06/16x9/125.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Cougar Town</figcaption>
+    
+</figure>
+    </a>
+    
+    <div class="inner">
+      
+      
+      
+        <h1 class="heading">
+	<a href="http://www.avclub.com/article/celebrate-national-wine-day-these-tv-lushes-237330" title="Celebrate National Wine Day with these TV lushes" data-track-label="/article/celebrate-national-wine-day-these-tv-lushes-237330">
+		Celebrate National Wine Day with these TV lushes
+    
+	</a>
+</h1>
+      
+      
+      
+      
+      
+    </div>
+  </article>
+
+
+
+          
+        </div>
+      
+    </section>
+  </div>
+
+    
+    <nav class="meta" id="h-colophon">
+      <ul data-track-action="Content: More: Etc">
+        <li>
+          <a href="http://www.avclub.com/search" data-track-label="/search">
+            All Recent
+          </a>
+        </li>
+        <li>
+          <a href="http://www.avclub.com/features/" data-track-label="/features/">
+            Browse Our Features
+          </a>
+        </li>
+        <li>
+          <a href="http://www.avclub.com/features/coming-distractions/" data-track-label="/features/coming-distractions/">
+            Coming Distractions
+          </a>
+        </li>
+        <li>
+          <a href="http://www.avclub.com/features/savage-love/" data-track-label="/features/savage-love/">
+            Savage Love
+          </a>
+        </li>
+      </ul>
+      <ul data-track-action="Content: More: Social">
+        <li>
+          <a href="http://www.facebook.com/theavclub" target="_blank" data-track-label="Facebook">
+            <i class="fa-facebook fa"></i>
+            Facebook
+          </a>
+        </li>
+        <li>
+          <a href="http://twitter.com/TheAVClub/" target="_blank" data-track-label="Twitter">
+            <i class="fa-twitter fa"></i>
+            Twitter
+          </a>
+        </li>
+        <li>
+          <a href="http://theavc.tumblr.com/" target="_blank" data-track-label="Tumblr">
+            <i class="fa-tumblr fa"></i>
+            Tumblr
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+    
+  </div>
+
+
+        
+  <div class="main-container">
+    <div class="dfp dfp-slot-wallpaper " data-ad-unit="wallpaper">
+</div>
+
+    <div id="main" class="main wrapper clearfix " role="main" data-track-category="Content">
+      
+  
+  
+    <article id="article-236417" class="main needs-margin" data-content-id="236417">
+
+      
+        
+
+<div class="article-meta article-metabar">
+  <div id="article-tags" class="article-tags" data-track-action="Podmass Article: Meta: Tags">
+
+    <div class="main-tag">
+      
+        
+          <a href="http://www.avclub.com/section/comedy-bang-bang" title="Comedy Bang! Bang!" class="comedy-bang-bang" data-track-action="Podmass Article: Meta: Tags: Main Tag" data-track-label="/section/comedy-bang-bang">
+            <span>
+              Comedy Bang! Bang!
+            </span>
+          </a>
+        
+      
+    </div>
+
+    
+      
+  <a class="article-tags-link podmass" title="Podmass" href="http://www.avclub.com/features/podmass/" data-track-action="Podmass Article: Feature Type" data-track-label="/features/podmass/">
+    Podmass
+  </a>
+
+
+    
+
+    
+
+  </div>
+
+  
+</div>
+
+      
+
+      <div class="article-header content-masthead">
+        
+  <header>
+  
+    <h1 class="heading">
+      <i>Mostly Lit </i>drinks the <i>Lemonade</i>, discusses Warsan Shire and Beyoncé
+    </h1>
+  
+  
+</header>
+  <section class="article-meta ">
+	
+    <div class="authors byline">
+      By
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/timbarnesfilm/" data-track-action="Podmass Article: Author" data-track-label="/author/timbarnesfilm/">Tim Barnes</a>,
+          </span>
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/rebeccabulnez/" data-track-action="Podmass Article: Author" data-track-label="/author/rebeccabulnez/">Rebecca Bulnes</a>,
+          </span>
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/cannonfire/" data-track-action="Podmass Article: Author" data-track-label="/author/cannonfire/">Ben Cannon</a>,
+          </span>
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/DennisDiClaudio/" data-track-action="Podmass Article: Author" data-track-label="/author/DennisDiClaudio/">Dennis DiClaudio</a>,
+          </span>
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/ColinGriffith/" data-track-action="Podmass Article: Author" data-track-label="/author/ColinGriffith/">Colin Griffith</a>,
+          </span>
+      
+        <span class="author"><a class="author" href="http://www.avclub.com/author/Incurable%20Ennui/" data-track-action="Podmass Article: Author" data-track-label="/author/Incurable Ennui/">B.G. Henne</a>,
+          </span>
+      
+        <span class="author">
+            and <a class="author" href="http://www.avclub.com/author/arayharris/" data-track-action="Podmass Article: Author" data-track-label="/author/arayharris/">Ashley Ray-Harris</a></span>
+      
+    </div>
+  
+	
+<div class="published">
+	<span class="published date">
+    May 9, 2016
+  </span>
+	<span class="published time">
+    12:25 PM
+  </span>
+</div>
+
+</section>
+  
+
+  <div class="article-image main-image">
+    <figure>
+    <div data-type="image" class="image crop-16x9" data-image-id="581053" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5810/53/16x9/960.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/960.jpg"></div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Photo: Frank Micelotta/Parkwood Entertainment via Getty Images)</figcaption>
+    
+</figure>
+    
+      <figcaption>(Photo: Frank Micelotta/Parkwood Entertainment via Getty Images)</figcaption>
+    
+  </div>
+
+
+      </div>
+
+      <div class="article-body-wrapper">
+
+        <div class="article-body">
+
+          
+            <div class="sharetools" data-track-action="Podmass Article: Meta: Share: Top">
+              
+<a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417fsd" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=285,width=500&#39;);return false;" data-track-label="Facebook">
+  <i class="fa fa-facebook fa-fw"></i>
+  <span>Share</span>
+</a>
+<a class="tw" href="https://twitter.com/share?text=Mostly%20Lit%20drinks%20the%20Lemonade,%20discusses%20Warsan%20Shire%20and%20Beyonc%C3%A9&amp;url=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417tsd&amp;via=TheAVClub&amp;related=TheAVClub" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=350,width=475&#39;);return false;" data-track-label="Twitter">
+  <i class="fa fa-twitter fa-fw"></i>
+  <span>Tweet</span>
+</a>
+
+
+  <a class="see-comments ds comedy-bang-bang type-bg" href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417#comments" data-track-label="Comments">
+    <i class="fa fa-comment fa-fw"></i>
+    <span class="disqus-comment-count" data-disqus-url="/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417#disqus_thread" data-disqus-identifier="avclub_article_236417">147</span>
+  </a>
+
+
+            </div>
+          
+
+          
+  <div class="article-text">
+    <p style="font-style: italic;">
+      In <a href="http://www.avclub.com/features/podmass/" target="_self"><b>Podmass</b></a>, The A.V. Club sifts through the ever-expanding world of podcasts and recommends 10–15 of the previous week’s best episodes. Have your own favorite? Let us know in the comments or at <a href="mailto:podmass@avclub.com">podmass@avclub.com</a>.
+    </p>
+    <div ng-show="content.topText">
+      
+    </div>
+    <div class="podmass">
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Comedy Bang! Bang!
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://www.earwolf.com/episode/the-7th-anniversary-show/" data-track-action="Podmass Article: Episode" data-track-label="http://www.earwolf.com/episode/the-7th-anniversary-show/" target="_blank">
+              7th Anniversary: Jason Mantzoukas, Paul F. Tompkins, Horatio Sanz, Neil Campbell, Mike Hanford, Tim Baltz, Drew Tarver
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="525923" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5259/23/1x1/150.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(4).jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/comedy-bang-bang-the-podcast/id316045799?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/comedy-bang-bang-the-podcast/id316045799?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p><i>Comedy Bang! Bang!</i> celebrates its seventh anniversary by giving listeners an episode piled high with fan favorites—from classics like Horatio Sanz as Shelly Driftwood, to newer characters like Mike Hanford’s John Lennon—all of which are zany and charming in their own ways. In particular, John Lennon, who Hanford plays as a bumbling idiot with nothing but nice things to say, is a bright and refreshing character who pairs well with <i>Comedy Bang! Bang</i>!’s mainstays. Playing to his comedic peak, Scott Aukerman baits Shelly Driftwood to give exhaustingly detailed driving directions, which end up working as the highlight reel of the character. Also in on the fun are Maxwell Keeper with exasperated cadence and perfect timing and Neil Campbell with a strong and spontaneous delivery. It’s an endlessly entertaining episode that showcases some of the most lovable character avenues <i>Comedy Bang! Bang! </i>has carved out, and it’s the perfect way to celebrate seven hilarious years.</p><div class="dfp dfp-slot-inread " data-ad-unit="inread">
+</div>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/rebeccabulnez/" data-track-action="Podmass Article: Author" data-track-label="/author/rebeccabulnez/">Rebecca Bulnes</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Design Matters
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://designobserver.com/feature/nico-muhly/39262" data-track-action="Podmass Article: Episode" data-track-label="http://designobserver.com/feature/nico-muhly/39262" target="_blank">
+              Nico Muhly
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="575522" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5755/22/1x1/150.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(5).jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/design-matters-debbie-millman/id328074695?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/design-matters-debbie-millman/id328074695?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>During this wholly interesting episode of <i>Design Matters</i>, listeners can’t help shake the suspicion that celebrated contemporary classical composer Nico Muhly is actually a character from a Wes Anderson film come to life. Perhaps it’s in the quiet grandeur of his profession—Muhly is easily the most well-known classical composer in decades—or in his upbringing as the son of a painter and a documentary filmmaker, or perhaps it is his quirky fascination with the development history of ligature sorts used in frontispiece printing. It mostly comes through in Muhly’s enthusiastically erudite discussions of musicology, including his obsession with Steve Reich and opera, especially when one considers that he is still rather young at 34. The best moment comes when Muhly injects a bit of pedestrian relatability into the conversation, explaining to host Debbie Millman that his critically lauded opera <i>Two Boys</i> shares as much in common with Mozart’s<i> Così Fan Tutte </i>as it does with <i>Law &amp; Order: Special Victims Unit</i>. The conversation between the two is chock-full of similarly engaging moments, giving listeners a window into a world they are otherwise not privy to; another wonderful listen from this most assured of podcasts.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/cannonfire/" data-track-action="Podmass Article: Author" data-track-label="/author/cannonfire/">Ben Cannon</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            The Dinner Party Download
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://feedproxy.google.com/~r/dinnerpartydownload/~3/VnZBC39JjoM/dpd_20160429_128.mp3" data-track-action="Podmass Article: Episode" data-track-label="http://feedproxy.google.com/~r/dinnerpartydownload/~3/VnZBC39JjoM/dpd_20160429_128.mp3" target="_blank">
+              Jessica Williams, Dick Cavett, Michael McKean
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="580945" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5809/45/1x1/150.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/300.jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/the-dinner-party-download/id289105827?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/the-dinner-party-download/id289105827?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p><i>The Dinner Party Download</i> has fast paced segments that keep listeners interested in everything they need to survive the dinner party conversations of a given week. Hosts Rico Gagliano and Brendan Francis Newnam navigate us from the subjects of history and food to an excerpt from Jen Kirkman’s new book <i>I Know What I’m Doing—And Other Lies I Tell Myself. </i>Kirkman reads a piece that involves blackmail and a relationship on the rocks with a skillful level of emotion and nuance, but the crux of the episode is the hosts’ live conversation with Jessica Williams and Dick Cavett. Cavett, who has probably talked to every prominent figure since 1968, is asked to describe his thought process as an interviewer. When talking to Williams, Gagliano and Newnam unveil an aspect of her career that she has tried to keep hidden: a co-starring role in a 2006 Nickelodeon kids show <i>Just For Kicks</i>. Their third party guest, Michael McKean, describes his shift from playing comedic characters to those of a villainous nature. This podcast downloads an astonishing amount of information into the brains of its listeners, and the most important piece of advice for dinner party survival comes from Dick Cavett. His response on how to navigate interviews is, “Try to listen to what the guest is saying.” </p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/timbarnesfilm/" data-track-action="Podmass Article: Author" data-track-label="/author/timbarnesfilm/">Tim Barnes</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Doughboys
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="https://itunes.apple.com/us/podcast/doughboys/id996151267?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: Episode" data-track-label="https://itunes.apple.com/us/podcast/doughboys/id996151267?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+              The Olive Garden: Christine Nangle
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="556872" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5568/72/1x1/150.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(6).jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/doughboys/id996151267?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/doughboys/id996151267?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>One of the very best, yet largely unremarked upon, aspects of <i>Doughboys</i> is that almost every one of their guests—no matter how well known or not so well known they are—is an actual fan of the podcast. It’s a joy to hear in and of itself, but it also means the guests know all of the various segments of the show and can play into the brilliantly antagonistic dynamic between its hosts and its ever increasingly ridiculous mythology. <i>Kroll Show</i> and <i>Inside Amy Schumer </i>writer Christine Nangle is a true exemplar of this, bearing intimate knowledge of episodes both early and recent, and even her own introductory sound drop. Every other element of her episode also brings exactly what listeners want and expect from <i>Doughboys</i>: hyper specific and sometimes slightly sad childhood stories; a plethora of food-related memories; and a very thorough, even-handed review of Olive Garden. Nangle may not be as into food as the ’boys are, but she makes for a terrific guest and the (nearly) two-hour episode flies by. </p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/ColinGriffith/" data-track-action="Podmass Article: Author" data-track-label="/author/ColinGriffith/">Colin Griffith</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Gilmore Guys
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://www.spreaker.com/user/gilmoreguys/621-driving-miss-gilmore-with-jason-mant" data-track-action="Podmass Article: Episode" data-track-label="http://www.spreaker.com/user/gilmoreguys/621-driving-miss-gilmore-with-jason-mant" target="_blank">
+              “Driving Miss Gilmore”: Jason Mantzoukas
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="532169" data-rendered="true">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5321/69/1x1/150.jpg" &gt;
+            </noscript>
+        <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/200(7).jpg"></div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/gilmore-guys-gilmore-girls/id923957904?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/gilmore-guys-gilmore-girls/id923957904?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>With only one episode left until the <i>Gilmore Guys</i> venture into the dark and mysterious territory that is the seventh season of <i>Gilmore Girls</i>, this live show is a bittersweet celebration. Fan favorite Jason Mantzoukas elevates the energy in a recklessly fun way, and it’s oddly cathartic to listen to. Sprinkling in his hilarious hopes for season seven, which all include Dean being dead, Mantzoukas sets an atmosphere that allows the podcast to go to the most ridiculous of places. There’s a healthy amount of genuine <i>Gilmore Girls </i>episode breakdown, with discussion about Emily manipulating Lorelai to be with Christopher, Rory lacking an understanding of journalism, and the Palladinos writing their last episodes. But this episode is at its best when the hosts allow pure fun to take over, as Mantzoukas places <i>Gilmore Girls</i> in the <i>Harry Potter</i> and <i>Game Of Thrones</i> universes, meticulously categorizing the characters in different houses and families. Mantzoukas is also the only person who can declare Dean is a Hufflepuff and make it seem like a tremendous insult. It’s the show at its nerdiest, and it’s the perfect way to prepare everyone for a dive into uncharted land.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/rebeccabulnez/" data-track-action="Podmass Article: Author" data-track-label="/author/rebeccabulnez/">Rebecca Bulnes</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            The Heart
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://heart.prx.org/2016/05/mariya/" data-track-action="Podmass Article: Episode" data-track-label="http://heart.prx.org/2016/05/mariya/" target="_blank">
+              Mariya
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="531021">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5310/21/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/the-heart/id595892633?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/the-heart/id595892633?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>The new season of <i>The Heart </i>premieres with the story of Mariya Karimjee, a survivor of female genital mutilation. Mariya details her childhood in Karachi, Pakistan and the procedure her family forced her to undertake at 7. She eventually moves to Texas and grows up like a typical suburban kid until the approach of puberty forces her to remember “the bug” that her mother had warned needed to be cut out when she was a child. The anger she directs toward her mother and birthplace are palpable as she details the disconnect between her new, Westernized lifestyle in college and the limitations placed on her body by a ritual that’s viewed as shameful and limited to third-world countries. She eventually finds the strength to confront her mother—only to realize they share a similar rage toward a culture that failed them. As Mariya works to forgive her mother, the episode moves beyond one particularly horrific event and instead becomes an in-depth look at the generational resentments many of us carry. When Mariya’s mother makes a guest appearance in the episode—reading excerpts of the Harlequin novels they both would use to fantasize about the sexual freedoms they lost—<i>The Heart </i>proves again that even our most isolated, intimate experiences are more relatable than we imagine.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/arayharris/" data-track-action="Podmass Article: Author" data-track-label="/author/arayharris/">Ashley Ray-Harris</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Mostly Lit
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="https://soundcloud.com/mostly-lit/wait-was-that-warsan-shire" data-track-action="Podmass Article: Episode" data-track-label="https://soundcloud.com/mostly-lit/wait-was-that-warsan-shire" target="_blank">
+              Wait, Was That Warsan Shire?
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="580946">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5809/46/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/mostly-lit/id1099791479?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/mostly-lit/id1099791479?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p><i>Mostly Lit</i> is a British podcast from Alex Reads and Reckless Rai that connects the dots between literature and black popular culture. Beyoncé’s <i>Lemonade</i> concept album, being the perfect combination of the two, is their subject for this episode. It kicks off as Rai reads an excerpt from poet Warsan Shire, whose work narrates the record. Once they settle their opinions on the music, they dive into their main segments (Who’s Lit, Diaspora Reads, Lit Shade, and Quote Of The Week.) Reads and Rai have smooth chemistry guided by concern for each other’s thoughts, and a playful energy that leaves every talking point open for potential laughter. It’s also exciting to hear some perspectives on <i>Lemonade</i> from people of color outside of the American blog machine. The hosts draw parallels between the album and other pieces of work that add to the black narrative. When asked by Reads to express her opinion on the album’s theme, Rai says, “I want to say ‘black-girl magic,’ right? But at the same time, for me, it really encapsulated different identities of black women.”</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/timbarnesfilm/" data-track-action="Podmass Article: Author" data-track-label="/author/timbarnesfilm/">Tim Barnes</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            The Mysterious Secrets Of Uncle Bertie's Botanarium
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds" data-track-action="Podmass Article: Episode" data-track-label="" target="_blank">
+              The Disrespectful Expatriate
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="581060">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5810/60/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p><i>The Mysterious Secrets Of Uncle Bertie’s Botanarium</i> has established of a narrative tapestry that lampoons Victorian sexual inhibitions, Linnaean classification, and the foibles of aristocracy. Set against this robust backdrop are the adventures of Lord Joseph Banks (Jemaine Clement), a bumbling, pleasure-hating nobleman set on completing the legacy of his botanist-uncle Bertram Banks. While previous episodes drew the Lord Joseph toward his goal, episode eight appears to be a pivot point, where the characters begin questioning their motives. Joseph is confronted with what he ostensibly most despises: a lurid plant capable of providing extreme carnal pleasures. Meanwhile, his nephew falls prey to the temptations of exotic snuff, which threaten to undermine his identity as a hopeless romantic, and Joseph’s manservant Solander discovers that he is appreciated by others as a man of compassion. Clement and company are in rare form, bringing to life the fully realized, completely ridiculous world of the “Gravy Islands,” where botanists, even the worst ones, occupy the highest social and academic strata. While <i>Uncle Bertie’s</i> alone might not be enough to pay Howl.fm a monthly subscription, it’s one of the best scripted podcasts currently in production, and is worth signing up for the network’s trial subscription. </p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/Incurable%20Ennui/" data-track-action="Podmass Article: Author" data-track-label="/author/Incurable Ennui/">B.G. Henne</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Someone Else's Movie
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://someoneelsesmovie.com/david-bezmozgis-on-holy-motors" data-track-action="Podmass Article: Episode" data-track-label="http://someoneelsesmovie.com/david-bezmozgis-on-holy-motors" target="_blank">
+              David Bezmozgis On <i>Holy Motors</i>
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="562325">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5623/25/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/someone-elses-movie/id976729350?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/someone-elses-movie/id976729350?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>On this week’s episode of the intelligent celluloid love-fest <i>Someone Else’s Movie</i>, host Norm Wilner puzzles over Leos Carax’s masterfully surreal 2012 French film <i>Holy Motors </i>with Canadian author and filmmaker David Bezmozgis. The film at the center is one of almost phosphorescent creativity, burning brilliant with white hot imagination, anchored by the chameleonic Denis Lavant. Bezmozgis admits that he sees his own limitations as a director in watching the film, as he could never replicate its singular blend of emotional and creative ingenuity. The discussion naturally flows from the film into the realms of other art forms, exploring the dreamlike works of creators from Caravaggio to Dennis Johnson and even Louis CK. Where a film like <i>Holy Motors</i> feels like a once-in-a-decade occurrence, Bezmozgis and Wilner go back and forth over whether the structures exist for others to follow in Carax’s footsteps, making unbridled passion projects which resist easy classification or decoding. Reality sets in, however, when Wilner brings up the counterintuitive push by Hollywood’s major studios, paring back their output of original intellectual properties in the wake of <i>Batman V Superman</i>. <i>Someone Else’s Movie</i> proves to be among the best destinations for deep, expert film discussion.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/cannonfire/" data-track-action="Podmass Article: Author" data-track-label="/author/cannonfire/">Ben Cannon</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Songs You're Sick Of
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://feeds.feedblitz.com/~/152606878/0/songsyouresickof/zqeg~Rock-You-Like-A-Hurricane/" data-track-action="Podmass Article: Episode" data-track-label="http://feeds.feedblitz.com/~/152606878/0/songsyouresickof/zqeg~Rock-You-Like-A-Hurricane/" target="_blank">
+              “Rock You Like A Hurricane”
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="580947">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5809/47/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/songs-youre-sick-of/id998398622?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/songs-youre-sick-of/id998398622?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>There are a lot of songs that a lot of people have deep-down bone-marrow familiarity with despite having never once actively chosen to listen to them. They simply enter the consciousness through a process of cultural osmosis and burrow themselves into the crevices of our psyche where they are largely immune from criticism. <i>Songs You’re Sick Of</i> is a podcast that makes its business of dragging such songs out into the light where they can be properly examined. In this episode, host Joe Dator and guest host Susan Kruglinski spend a full half hour dissecting, via playful and sometimes rambling conversation, Scorpions’ 1984 hit “Rock You Like A Hurricane.” One of the things they discover is that while this ode to aggressive sex is the German band’s first major U.S. hit, it actually comes from their ninth studio album—the band formed two decades earlier in 1965. Another thing: The band’s uncomfortable history of misogyny, which resulted in one album cover that should definitely not be Googled by law-abiding citizens. Billy Joel’s “<a href="http://songsyouresickof.com/blog/2016/04/26/its-still-rock-and-roll-to-me/" target="_blank">It’s Still Rock And Roll To Me</a>” and Toto’s “<a href="http://songsyouresickof.com/blog/2016/04/18/africa/" target="_blank">Africa</a>” receive similar treatment in earlier installments.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/DennisDiClaudio/" data-track-action="Podmass Article: Author" data-track-label="/author/DennisDiClaudio/">Dennis DiClaudio</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            This American Life
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://feed.thisamericanlife.org/~r/talpodcast/~3/5E3GseAwB0U/prom" data-track-action="Podmass Article: Episode" data-track-label="http://feed.thisamericanlife.org/~r/talpodcast/~3/5E3GseAwB0U/prom" target="_blank">
+              Prom
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="533463">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5334/63/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/this-american-life/id201671138?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/this-american-life/id201671138?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>Prom has permeated our culture in such a universal way that it’s hardly ever looked at with an artfully specific eye. Instead, it’s often deemed an evening involving tipsy teens awkwardly slow dancing in gaudy outfits, culminating in nothing more than a notch in one’s cultural belt. This week’s episode of <i>This American Life</i>, however,<i> </i>focuses on stories where prom changes lives. The first act follows the story of the small town of Hoisington, Kansas, where in 2001, “a night to remember” was redefined, as unbeknownst to attendees, a tornado ripped through one-third of the town. The teens struggle to conceptualize why the tornado hit when and where it did, if it was fate that they were kept in the dark, and how the storm taught everyone a lesson in a town where “nothing ever happened.” The episode ends by providing contrast with a story of Racine, Wisconsin, where prom includes parades, red carpets, and its own TV program. Revealing carefully how much of the hype surrounding prom relies on the restless feeling that it’s the night where anything can happen, <i>This American Life</i> truly captures the moment. </p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/rebeccabulnez/" data-track-action="Podmass Article: Author" data-track-label="/author/rebeccabulnez/">Rebecca Bulnes</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            Trumpcast
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="https://itunes.apple.com/us/podcast/slates-trumpcast/id1093260018?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: Episode" data-track-label="https://itunes.apple.com/us/podcast/slates-trumpcast/id1093260018?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+              A Man Of His Generation
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="575385">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5753/85/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/slates-trumpcast/id1093260018?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/slates-trumpcast/id1093260018?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p><i>Slate</i>’s editor-in-chief Jacob Weisberg often makes the point that it is his sincere hope that the Donald-centric podcast he hosts several times a week is short-lived. Multiple times after the past few months, based on the conventional wisdom of pollsters and pundits, he’s happily reported that the existence of <i>Trumpcast</i> might soon lose its necessity. Unfortunately for him, and for everybody else in America, it appears that he will continue pumping out episodes into the November. Now, with Trump stands triumphant atop the Republican mountain with all of his vanquished foes heads at his feet, Weisberg welcomes Slate’s critic-at-large, Stephen Metcalf, to discuss his recent cover story “<a href="http://www.slate.com/articles/news_and_politics/cover_story/2016/05/donald_trump_baby_boomer_how_the_candidate_was_shaped_by_his_generation.html" target="_blank">Donald Trump, Baby Boomer</a>” to better understand how the real estate mogul is an almost cartoonishly spot-on manifestation of everything that is ugly and excessive about the 1980s’ philosophy of me. It’s illuminating to learn what effect the war in Vietnam had on Trump’s worldview and business practices, despite the multiple student deferments he received. Be forewarned though, this podcast is not wrestling with the question of Trump. Its mind was very much made up in its first episode back in March. This is best listened to by people who can’t help but fiddle with open sores.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/DennisDiClaudio/" data-track-action="Podmass Article: Author" data-track-label="/author/DennisDiClaudio/">Dennis DiClaudio</a></span>]
+        </div>
+      </div>
+      
+      <div class="podmass-entry">
+        <h4>
+          <span class="podmass-entry-podcast">
+            With Special Guest Lauren Lapkus
+          </span>
+          <br>
+          <span class="podmass-entry-episode">
+            <a href="http://www.earwolf.com/episode/chris-gethard-anonymous-stories-from-beautiful-people/" data-track-action="Podmass Article: Episode" data-track-label="http://www.earwolf.com/episode/chris-gethard-anonymous-stories-from-beautiful-people/" target="_blank">
+              Chris Gethard: <i>Anonymous Stories From Beautiful People</i>
+            </a>
+          </span>
+        </h4>
+        <div class="podmass-entry-image">
+          <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="529544">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5295/44/1x1/150.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+          
+          <a class="itunes-link" href="https://itunes.apple.com/us/podcast/special-guest-lauren-lapkus/id944042911?mt=2&amp;uo=4&amp;at=10lPNj" data-track-action="Podmass Article: iTunes" data-track-label="https://itunes.apple.com/us/podcast/special-guest-lauren-lapkus/id944042911?mt=2&amp;uo=4&amp;at=10lPNj" target="_blank">
+            <img src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/itunes-subscribe.svg">
+          </a>
+          
+        </div>
+        <div class="podmass-entry-text">
+          <p>That neither Lapkus nor the temporary host know what to expect is what makes <i>With Special Guest Lauren Lapkus</i> exciting. The genuine unpredictability of this week’s episode, for example, finds Chris Gethard hosting his actual Earwolf show <i>Beautiful Stories from Anonymous People</i> (slightly altered into <i>Anonymous Stories From Beautiful People</i>), with Lapkus acting as the anonymous caller. Gethard plays the entire episode with the utmost sincerity. Lapkus plays a caller whose father left home because of, as it’s slowly revealed, the many convoluted pranks her character put him through. As in actual episodes of the show, Gethard engages with the caller intimately and hardly ever makes it about himself, which allows him to push Lapkus for details, prompting her to come up with increasingly ridiculous specifics about the torment she put her father through. With every absurd reveal, Gethard masterfully navigates the improv to allow Lapkus to shine, reveling in the most unbelievable of storylines, while he remains the perfect, grounded foil. His ability to play the show straight ends up being equally as hilarious as Lapkus’ elaborately sadistic character.</p>
+        </div>
+        <div class="podmass-entry-author">
+          [<span class="author"><a class="author" href="http://www.avclub.com/author/rebeccabulnez/" data-track-action="Podmass Article: Author" data-track-label="/author/rebeccabulnez/">Rebecca Bulnes</a></span>]
+        </div>
+      </div>
+      
+    </div>
+    <div ng-show="content.quotes">
+      <h4>We see what you said there</h4>
+      <p>“Christopher is Dumbledore?! No! No way. Christopher is <i>maybe </i>Lupin. <i>Maybe.</i>”—Jason Mantzoukas on who Christopher is in the <i>Harry Potter </i>world, <i>Gilmore Guys</i><br></p><p>“I’m finding it very hard to tell if you are a quiet girl or a sad boy.”—Chris Gethard on Lauren Lapkus’ character, <i>With Special Guest Lauren Lapkus </i></p>
+    </div>
+  </div>
+
+          
+
+          
+            <footer class="article-footer">
+              <section class="sharetools" data-track-action="Podmass Article: Meta: Share: Below">
+                
+<a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417fsd" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=285,width=500&#39;);return false;" data-track-label="Facebook">
+  <i class="fa fa-facebook fa-fw"></i>
+  <span>Share</span>
+</a>
+<a class="tw" href="https://twitter.com/share?text=Mostly%20Lit%20drinks%20the%20Lemonade,%20discusses%20Warsan%20Shire%20and%20Beyonc%C3%A9&amp;url=http%3A%2F%2Fwww.avclub.com%2Fr%2F236417tsd&amp;via=TheAVClub&amp;related=TheAVClub" onclick="window.open(this.href,&#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=350,width=475&#39;);return false;" data-track-label="Twitter">
+  <i class="fa fa-twitter fa-fw"></i>
+  <span>Tweet</span>
+</a>
+
+
+  <a class="see-comments ds comedy-bang-bang type-bg" href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417#comments" data-track-label="Comments">
+    <i class="fa fa-comment fa-fw"></i>
+    <span class="disqus-comment-count" data-disqus-url="/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417#disqus_thread" data-disqus-identifier="avclub_article_236417">147</span>
+  </a>
+
+
+              </section>
+              <section id="tags">
+                <div class="tags">
+  <span>Filed Under:</span>
+  
+    
+    <a href="http://www.avclub.com/search?tags=comedy-bang-bang" data-track-action="Podmass Article: Meta: Tag" data-track-label="Comedy Bang! Bang!">
+      Comedy Bang! Bang!, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=this-american-life" data-track-action="Podmass Article: Meta: Tag" data-track-label="This American Life">
+      This American Life, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=doughboys" data-track-action="Podmass Article: Meta: Tag" data-track-label="Doughboys">
+      Doughboys, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=with-special-guest-lauren-lapkus" data-track-action="Podmass Article: Meta: Tag" data-track-label="With Special Guest Lauren Lapkus">
+      With Special Guest Lauren Lapkus, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=gilmore-guys" data-track-action="Podmass Article: Meta: Tag" data-track-label="Gilmore Guys">
+      Gilmore Guys, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=the-heart" data-track-action="Podmass Article: Meta: Tag" data-track-label="The Heart">
+      The Heart, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=trumpcast" data-track-action="Podmass Article: Meta: Tag" data-track-label="Trumpcast">
+      Trumpcast, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=fresh-air" data-track-action="Podmass Article: Meta: Tag" data-track-label="Fresh Air">
+      Fresh Air, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=someone-elses-movie" data-track-action="Podmass Article: Meta: Tag" data-track-label="Someone Else&#39;s Movie">
+      Someone Else's Movie, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=design-matters" data-track-action="Podmass Article: Meta: Tag" data-track-label="Design Matters">
+      Design Matters, 
+    </a>
+  
+    
+      <a class="expand-link" href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417?utm_medium=RSS&amp;amp;utm_campaign=feeds#collapse" data-track-action="Podmass Article: Meta: Tag: Show More" data-track-label="#">
+        Show More
+      </a>
+    
+    <a href="http://www.avclub.com/search?tags=songs-youre-sick-of" data-track-action="Podmass Article: Meta: Tag" data-track-label="Songs You&#39;re Sick Of" style="display:none">
+      Songs You're Sick Of, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=mostly-lit" data-track-action="Podmass Article: Meta: Tag" data-track-label="Mostly Lit" style="display:none">
+      Mostly Lit, 
+    </a>
+  
+    
+    <a href="http://www.avclub.com/search?tags=the-dinner-party-download" data-track-action="Podmass Article: Meta: Tag" data-track-label="The Dinner Party Download" style="display:none">
+      The Dinner Party Download
+    </a>
+  
+</div>
+              </section>
+              <section>
+                <h2 class="section-title visuallyhidden">
+                  More Podmass
+                </h2>
+                <nav class="pager">
+                  
+                    <a class="previous" href="http://www.avclub.com/detail/orange-new-blacks-diane-guerrero-debt-and-deportat-236045" title="Orange Is The New Black’s Diane Guerrero on debt and deportation" data-track-action="Podmass Article: Below: Next/Prev: Prev" data-track-label="/detail/orange-new-blacks-diane-guerrero-debt-and-deportat-236045">
+                      <i class="fa fa-angle-left fa-fw"></i>
+                      <div>
+                        <span class="label">
+                          Previous Podmass
+                        </span>
+                        <span class="title">
+                          <i>Orange Is The New Black</i>’s Diane Guerrero on debt and deportation
+                        </span>
+                      </div>
+                    </a>
+                  
+                  
+                    <a class="next" href="http://www.avclub.com/detail/jon-stewart-talks-trumps-tiny-hands-and-alec-baldw-236816" title="Jon Stewart talks Trump’s tiny hands, and Alec Baldwin talks Weiner’s penis" data-track-action="Podmass Article: Below: Next/Prev: Next" data-track-label="/detail/jon-stewart-talks-trumps-tiny-hands-and-alec-baldw-236816">
+                      <div>
+                        <span class="label">
+                          Next Podmass
+                        </span>
+                        <span class="title">
+                          Jon Stewart talks Trump’s tiny hands, and Alec Baldwin talks Weiner’s penis
+                        </span>
+                      </div>
+                      <i class="fa fa-angle-right fa-fw"></i>
+                    </a>
+                  
+                </nav>
+              </section>
+              <section id="share-article-below">
+                <h2 class="section-title">
+                  Don't miss a story—follow <em>The A.V. Club</em> on:
+                </h2>
+                <div data-track-action="Podmass Article: Below: Social">
+                  <a href="http://www.facebook.com/theavclub" title="The A.V. Club on Facebook" data-track-label="Facebook" target="_blank">
+                    <i class="fa fa-facebook"></i>
+                  </a>
+                  <a href="http://twitter.com/TheAVClub" title="The A.V. Club on Twitter" data-track-label="Twitter" target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                  <a href="http://theavc.tumblr.com/" title="The A.V. Club on Tumblr" data-track-label="Tumblr" target="_blank">
+                      <i class="fa fa-tumblr"></i>
+                  </a>
+                  <a href="http://instagram.com/theavc" title="The A.V. Club on Instagram" data-track-label="Instagram" target="_blank">
+                      <i class="fa fa-instagram"></i>
+                  </a>
+                </div>
+              </section>
+              <section class="advertisement">
+                <div class="dfp dfp-slot-secondary-sm " data-ad-unit="secondary-sm">
+</div>
+
+              </section>
+              <section>
+                <div id="taboola-below-article-thumbs" class="taboola" data-track-action="Podmass Article: Below: Taboola" data-track-label="#">
+</div>
+              </section>
+              
+                
+                  <div id="comments" name="#comments">
+                    <div id="disqus_thread"><iframe id="dsq-app2" name="dsq-app2" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/saved_resource.html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 6441px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe><iframe id="dsq-app5" name="dsq-app5" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/saved_resource(1).html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 0px !important; display: none !important;"></iframe><iframe id="indicator-north" name="indicator-north" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" style="width: 803px !important; border: none !important; overflow: hidden !important; top: 0px !important; min-width: 803px !important; max-width: 803px !important; position: fixed !important; z-index: 2147483646 !important; height: 28px !important; min-height: 28px !important; max-height: 28px !important; display: none !important;" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/saved_resource(2).html"></iframe><iframe id="indicator-south" name="indicator-south" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" style="width: 803px !important; border: none !important; overflow: hidden !important; bottom: 0px !important; min-width: 803px !important; max-width: 803px !important; position: fixed !important; z-index: 2147483646 !important; height: 28px !important; min-height: 28px !important; max-height: 28px !important; display: none !important;" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/saved_resource(3).html"></iframe></div>
+                    <noscript>
+                      Please enable JavaScript to view the
+                      &lt;a href="http://disqus.com/?ref_noscript"&gt;
+                        comments powered by Disqus.
+                      &lt;/a&gt;
+                    </noscript>
+                  </div>
+                
+              
+            </footer>
+          
+        </div>
+
+        
+        <div class="article-sidebar">
+          <div class="article-side-wrapper" style="display: none; height: auto; width: 100%; margin: auto; position: relative; float: none; left: auto; right: auto; top: auto; bottom: auto; vertical-align: top;"><aside class="article-side" style="width: 807px; top: auto; bottom: auto; left: auto; right: auto; position: relative;">
+            
+  
+
+              
+
+                
+                  <div id="taboola-right-rail-thumbs"></div>
+                
+
+                <div class="dfp dfp-slot-above_fold-md-lg " data-ad-unit="above_fold-md-lg">
+</div>
+
+
+                
+                  <section class="more-articles">
+  <h3>More Podmass</h3>
+  
+    <article id="237022" data-track-action="Podmass Article: More Like This: Article: 1">
+      <h1 class="heading">
+	<a href="http://www.avclub.com/detail/nickelodeon-debuts-animation-focused-podcast-237022" title="Nickelodeon debuts an animation-focused podcast" data-track-label="/detail/nickelodeon-debuts-animation-focused-podcast-237022">
+		Nickelodeon debuts an animation-focused podcast
+    
+	</a>
+</h1>
+      <div class="article-meta">
+        
+<div class="published">
+	<span class="published date">
+    May 23, 2016
+  </span>
+	<span class="published time">
+    12:36 PM
+  </span>
+</div>
+
+      </div>
+    </article>
+  
+    <article id="236816" data-track-action="Podmass Article: More Like This: Article: 2">
+      <h1 class="heading">
+	<a href="http://www.avclub.com/detail/jon-stewart-talks-trumps-tiny-hands-and-alec-baldw-236816" title="Jon Stewart talks Trump’s tiny hands, and Alec Baldwin talks Weiner’s penis" data-track-label="/detail/jon-stewart-talks-trumps-tiny-hands-and-alec-baldw-236816">
+		Jon Stewart talks Trump’s tiny hands, and Alec Baldwin talks Weiner’s penis
+    
+	</a>
+</h1>
+      <div class="article-meta">
+        
+<div class="published">
+	<span class="published date">
+    May 16, 2016
+  </span>
+	<span class="published time">
+    12:00 PM
+  </span>
+</div>
+
+      </div>
+    </article>
+  
+    <article id="236417" data-track-action="Podmass Article: More Like This: Article: 3">
+      <h1 class="heading">
+	<a href="http://www.avclub.com/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417" title="Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé" data-track-label="/detail/mostly-lit-drinks-lemonade-discusses-warsan-shire--236417">
+		<i>Mostly Lit </i>drinks the <i>Lemonade</i>, discusses Warsan Shire and Beyoncé
+    
+	</a>
+</h1>
+      <div class="article-meta">
+        
+<div class="published">
+	<span class="published date">
+    May 9, 2016
+  </span>
+	<span class="published time">
+    12:25 PM
+  </span>
+</div>
+
+      </div>
+    </article>
+  
+    <article id="236045" data-track-action="Podmass Article: More Like This: Article: 4">
+      <h1 class="heading">
+	<a href="http://www.avclub.com/detail/orange-new-blacks-diane-guerrero-debt-and-deportat-236045" title="Orange Is The New Black’s Diane Guerrero on debt and deportation" data-track-label="/detail/orange-new-blacks-diane-guerrero-debt-and-deportat-236045">
+		<i>Orange Is The New Black</i>’s Diane Guerrero on debt and deportation
+    
+	</a>
+</h1>
+      <div class="article-meta">
+        
+<div class="published">
+	<span class="published date">
+    May 2, 2016
+  </span>
+	<span class="published time">
+    12:00 PM
+  </span>
+</div>
+
+      </div>
+    </article>
+  
+</section>
+                
+
+                <div class="most-read">
+	<h3>A.V. Club Most Read</h3>
+	
+		
+<article class="short" data-track-action="Podmass Article: Most Read: Article: 1" data-track-label="/tvclub/another-arrow-season-just-sort-ends-237351">
+  <div class="picture">
+    <a href="http://www.avclub.com/tvclub/another-arrow-season-just-sort-ends-237351">
+      <span class="number">
+        <span class="label">
+          1
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583183">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/83/1x1/200.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/tvclub/another-arrow-season-just-sort-ends-237351">
+        Another <i>Arrow</i> season just sort of ends
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="Podmass Article: Most Read: Article: 2" data-track-label="/article/captain-america-apparently-bad-guy-now-237347">
+  <div class="picture">
+    <a href="http://www.avclub.com/article/captain-america-apparently-bad-guy-now-237347">
+      <span class="number">
+        <span class="label">
+          2
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583174">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/74/1x1/200.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">(Image: Marvel Comics, Jesus Saiz)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/article/captain-america-apparently-bad-guy-now-237347">
+        Captain America is apparently a bad guy now
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="Podmass Article: Most Read: Article: 3" data-track-label="/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+  <div class="picture">
+    <a href="http://www.avclub.com/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+      <span class="number">
+        <span class="label">
+          3
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583067">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5830/67/1x1/200.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Will Toledo of Car Seat Headrest (Photo: Matador Records)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 26
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/article/how-indie-rock-bands-well-intentioned-homage-becam-237126">
+        How an indie rock band’s well-intentioned homage became a $50,000 mistake<i></i>
+      </a>
+    </div>
+  </div>
+</article>
+	
+		
+<article class="short" data-track-action="Podmass Article: Most Read: Article: 4" data-track-label="/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+  <div class="picture">
+    <a href="http://www.avclub.com/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+      <span class="number">
+        <span class="label">
+          4
+        </span>
+      </span>
+      <figure>
+    <div data-type="image" class="image crop-1x1" data-image-id="583167">
+        <div>
+            <noscript>
+                &lt;img src="http://i.onionstatic.com/avclub/5831/67/1x1/200.jpg" &gt;
+            </noscript>
+        </div>
+    </div>
+
+    
+
+    
+    <figcaption class="visuallyhidden">Matthew Rhys (left), Frank Langella, Marceline Hugot (photo: FX/Eric Liebowitz)</figcaption>
+    
+</figure>
+    </a>
+  </div>
+  <div class="inner">
+    <div class="meta">
+      <span class="pub_date">
+        Posted May 25
+      </span>
+    </div>
+    <div class="article-title">
+      <a href="http://www.avclub.com/tvclub/jennings-and-stan-and-tim-and-alice-and-deliciousl-237344">
+        The Jennings and Stan and Tim and Alice and a deliciously awkward <i>Americans</i> dinner
+      </a>
+    </div>
+  </div>
+</article>
+	
+  
+</div>
+
+              
+
+            
+  
+    <div class="dfp dfp-slot-below_fold-md-lg " data-ad-unit="below_fold-md-lg">
+</div>
+
+  
+
+          </aside></div>
+        </div>
+        
+
+      </div>
+    </article>
+  
+  
+  <a id="scroll-top" data-track-action="Scroll to top" data-track-label="#" class="visible">
+    <i class="fa fa-chevron-up"></i>
+  </a>
+
+    </div>
+  </div>
+
+
+      
+  <div class="footer-container">
+    
+<footer id="main-footer" class="wrapper" data-track-category="Footer">
+  <div class="navs">
+    <div class="newsletter">
+      <h1>Sign up for news</h1>
+      <!-- Begin Postup Signup Form -->
+      <form action="http://www.email.theonion.com/signuponion/signup.action" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <input type="hidden" name="src" value="avclub.com">
+        <input type="checkbox" value="11" name="listid" data-track-action="Newsletter: Daily" data-track-label="#" checked="">
+        <label>
+          Daily Newsletter
+          <span class="muted">Highlights from The A.V. Club</span>
+        </label>
+        <input type="checkbox" value="5" name="listid" data-track-action="Newsletter: On Tonight" data-track-label="#" checked="">
+        <label>
+          What's On Tonight
+          <span class="muted">A daily update on the world of TV</span>
+        </label>
+        <input type="email" name="email" class="required email" placeholder="Email Address">
+        <button type="submit" value="SUBMIT" name="subscribe" data-track-action="Newsletter: Submit" data-track-label="#">Submit</button>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;">
+            <input type="text" name="b_bf78bfbcb73a006625be5e73b_e18dce41c5" tabindex="-1" value="">
+          </div>
+      </form>
+      <!--End Postup signup-->
+    </div>
+    <nav class="links" data-track-category="Nav" data-track-action="Footer: Links">
+      <h1>Links and such</h1>
+      <div>
+        <ul class="unstyled col">
+          <li>
+            <a href="http://www.avclub.com/search" data-track-label="/search">
+              All Recent
+            </a>
+          </li>
+          <li>
+            <a href="http://www.avclub.com/features" data-track-label="/features">
+              Browse Our Features
+            </a>
+          </li>
+          <li>
+            <a href="http://www.avclub.com/features/coming-distractions/" data-track-label="/features/coming-distractions/">
+              Coming Distractions
+            </a>
+          </li>
+          <li>
+            <a href="http://www.avclub.com/features/savage-love/" data-track-label="/features/savage-love/">
+              Savage Love
+            </a>
+          </li>
+          <li>
+            <a href="http://www.avclub.com/features/contest/" data-track-label="/features/contest/">
+              Contests
+            </a>
+          </li>
+          <li>
+            <a href="http://www.avclub.com/rss/" data-track-label="/rss/">
+              <i class="fa fa-rss"></i> RSS
+            </a>
+          </li>
+        </ul>
+        <ul class="unstyled col">
+          <li>
+            <a href="http://www.avclub.com/about/" data-track-label="/about/">
+              About Us
+            </a>
+           </li>
+          <li>
+            <a href="http://www.avclub.com/contact/" data-track-label="/contact/">
+              Contact
+            </a>
+           </li>
+          <li>
+            <a target="_blank" href="http://www.theonion.com/jobs/" data-track-label="http://www.theonion.com/jobs/">
+              Jobs
+            </a>
+           </li>
+          <li>
+            <a target="_blank" href="http://www.theonion.com/privacy" data-track-label="http://www.theonion.com/privacy">
+              Privacy Policy
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <nav class="partners" data-track-category="Nav" data-track-action="Footer: Partners">
+      <h1>Our Partners</h1>
+      <ul id="meta-links" class="unstyled">
+        <li>
+          <a target="_blank" href="http://www.hitfix.com/" data-track-label="http://www.hitfix.com">
+            Hitfix
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="http://www.mentalfloss.com/" data-track-label="http://www.mentalfloss.com">
+            Mental Floss
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="http://www.ohmyrockness.com/" data-track-label="http://www.ohmyrockness.com">
+            Oh My Rockness
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="http://www.uproxx.com/" data-track-label="http://www.uproxx.com">
+            Uproxx
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="http://www.upworthy.com/" data-track-label="http://www.upworthy.com">
+            Upworthy
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="http://www.vice.com/" data-track-label="http://www.vice.com">
+            Vice
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div class="social" data-track-category="Nav" data-track-action="Footer: Social">
+    <a href="http://www.facebook.com/theavclub" title="The A.V. Club on Facebook" target="_blank" data-track-label="Facebook">
+      <i class="fa fa-fw fa-facebook"></i>
+    </a>
+    <a href="http://twitter.com/TheAVClub" title="The A.V. Club on Twitter" target="_blank" data-track-label="Twitter">
+      <i class="fa fa-fw fa-twitter"></i>
+    </a>
+    <a href="http://theavc.tumblr.com/" title="The A.V. Club on Tumblr" target="_blank" data-track-label="Tumblr">
+      <i class="fa fa-fw fa-tumblr"></i>
+    </a>
+    <a href="http://instagram.com/theavc" title="The A.V. Club on Instagram" target="_blank" data-track-label="Instagram">
+      <i class="fa fa-fw fa-instagram"></i>
+    </a>
+  </div>
+  <div class="our-sites" data-track-category="Nav" data-track-action="Footer: Onion, Inc.">
+    <a class="theonion" href="http://www.theonion.com/" target="_blank" data-track-label="http://www.theonion.com">
+    </a>
+    <a class="clickhole" id="clickhole-link" href="http://www.clickhole.com/?ref=avclub" target="_blank" data-track-label="http://www.clickhole.com">
+    </a>
+    <a class="starwipe" id="starwipe-link" href="http://www.starwipe.com/?ref=avclub" target="_blank" data-track-label="http://www.starwipe.com">
+    </a>
+    <a class="onionstudios" id="onionstudios-link" href="http://www.onionstudios.com/?ref=avclub" target="_blank" data-track-label="http://www.onionstudios.com">
+    </a>
+  </div>
+  <div class="colophon">
+    © Copyright 2016 Onion Inc.
+    All Rights Reserved.
+  </div>
+</footer>
+<div class="stripes outset" id="page-bottom"></div>
+
+  </div>
+  <div data-track-action="Modal" class="modal modal-border"></div>
+
+
+      
+
+        
+          <script type="text/javascript" src="http://assets3.onionstatic.com/onionstatic/avclub/static/js/ads.b1d6ccc8f4c8.js" charset="utf-8"></script>
+        
+
+        
+        <script>
+            var disqus_shortname = 'avclub';
+            (function () {
+                var s = document.createElement('script'); s.async = true;
+                s.type = 'text/javascript';
+                s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+            }());
+        </script>
+        
+
+        
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-223393-2', 'auto');
+  ga('create', 'UA-223393-11', 'auto', { 'name': 'adTracker' });
+
+  
+  ga('set', 'dimension1', 'comedy-bang-bang');
+  
+
+  
+  ga('set', 'dimension2', 'podmass');
+  
+
+  
+  ga('set', 'dimension3', 'podmass');
+  
+
+  
+  ga('set', 'dimension4', 'None');
+  
+
+  
+  ga('set', 'dimension5', 'None');
+  
+
+  
+    ga('set', 'dimension6', 'None');
+  
+
+  
+  ga('set', 'dimension7', '2016-05-09T17:25:00+00:00');
+  
+
+
+  
+  ga('set', 'dimension8', 'False');
+  
+
+  
+  ga('set', 'dimension9', 'Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé');
+  
+
+  
+  ga('set', 'dimension10', '236417');
+  
+
+  
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '456329901240411');
+  fbq('track', "PageView");
+</script>
+<noscript>
+  &lt;img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=456329901240411&amp;ev=PageView&amp;noscript=1"/&gt;
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+        
+
+        
+        <script type="text/javascript">
+            _qoptions={
+            qacct:"p-39FYaAGOYli_-"
+            };
+        </script>
+        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <noscript>
+            &lt;img src="//pixel.quantserve.com/pixel/p-39FYaAGOYli_-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/&gt;
+        </noscript>
+        
+
+        
+        <script type="text/javascript">
+          document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+        </script><script src="http://b.scorecardresearch.com/beacon.js"></script>
+        
+        <script>var VIDEOJS_SWF = '//assets3.onionstatic.com/onionstatic/avclub/static/videojs/dist/video-js/video-js.65cfcc0b7a35.swf';</script>
+
+        
+        <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-556f27cf05e0f5c5" async="async"></script>
+        
+          <script type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/avclub.main.86d7558418f9.js" charset="utf-8"></script>
+          
+            <script type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/avclub.video.94cc5e1dac4a.js" charset="utf-8"></script>
+          
+          <script type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/browserified.d6eebb3f33dd.js" charset="utf-8"></script>
+        
+
+        
+  
+
+  
+  <script type="text/javascript">
+    function toggleMore(e) {
+      e.preventDefault();
+      $(this).hide().nextAll('a').show();
+      return false;
+    }
+    $('#tags .expand-link').click(toggleMore);
+  </script>
+
+  <script type="text/javascript">
+    // Inserts "suggested read" recirc links
+    $(function() {
+      $.event.trigger("detail-page-setup", [236417, $('.article-detail')]);
+    });
+  </script>
+  
+
+  <div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=avclub&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1464249149862"></script></div>
+
+  <script type="text/javascript">
+      (function( ){
+      BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+      BF_WIDGET_SRC="//ct.buzzfeed.com/wd/UserWidget?u=avclub&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+      setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+      })();
+  </script>
+
+  <script type="text/javascript" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/detail.46dc4fa31d99.js" charset="utf-8"></script>
+
+
+      
+
+      <div id="pixel_trackers"></div>
+
+      <!-- univision research study remove 5/23/2016 -->
+      <!--  START::ib-ibi.com View Tag; DO NOT MODIFY TAG-->
+      <script type="text/javascript">
+        var _ibel = document.createElement('script');
+        _ibel.type = 'text/javascript';
+        _ibel.src = '//ib.mookie1.com/ibiview.js?go=274097&id1={emailSha1Hash}';
+        (document.getElementsByTagName('body')[0] || document.getElementsByTagName('head')[0]).appendChild(_ibel);
+      </script><script type="text/javascript" src="http://ib.mookie1.com/ibiview.js?go=274097&amp;id1={emailSha1Hash}"></script>
+      <noscript>&lt;iframe src="//ib.mookie1.com/view.html?go=274097" style="display: none;"&gt;&lt;/iframe&gt;</noscript>
+      <!--  END::ib-ibi.com View Tag -->
+
+
+    
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/xd_arbiter.html" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/xd_arbiter(1).html" style="border: none;"></iframe></div></div></div><script aria-hidden="true" type="application/x-lastpass" id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{(function() { for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; if (typeof(lastpass_f.lpsubmitorig2)=='object'){ continue;}lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); if (d) {for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ if (typeof(d.innerText) != 'undefined') { d.innerText=i.toString(); } else { d.textContent=i.toString(); } } } d.dispatchEvent(customEvent); }form.lpsubmitorig2(); } } }})()}catch(e){}</script><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" src="./Mostly Lit drinks the Lemonade, discusses Warsan Shire and Beyoncé · Podmass · The A.V. Club_files/saved_resource(4).html"></iframe></body></html>
