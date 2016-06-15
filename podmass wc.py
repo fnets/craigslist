@@ -11,7 +11,6 @@ r = feedparser.parse('http://www.avclub.com/feed/rss/?feature_types=podmass')
 
 page_links.append(requests.get(r.entries[0].link))
 for y in xrange(0,len(page_links)): 
-		
 		itunes_links.append(re.findall('(?<=href=").*itunes.*(?=")', page_links[y].text)) #searches through currently accessed podmass pages' download links for itunes links.
 		f.write(itunes_links[0][y].encode('utf8')+"\n") #writes added link to file
 
