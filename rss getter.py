@@ -25,8 +25,9 @@ with open('C:/Users/Frank/Documents/GitHub/craigslist/regex_out_top.txt') as f:
 for link in iTunesLinks: #go through regex output of podmass.py and add use them in the webtool
 	element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "feed")))
 	text_here = driver.find_element_by_id('feed') #find input field
+	not_ready_flag = driver.find_element_by_id('extracted_podcast') #find if page hasn't been dynamically changed yet
 	text_here.send_keys(link)
-	element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "extracted_podcast")))
+	ready_flag = WebDriverWait(driver, 10).until(not_ready_flag != driver.find_element_by_id('extracted_podcast'))
 	result = driver.find_element_by_id("extracted_podcast") #read rss feed, timing may need to be added
 	rss.append(result) #writes output of field to list.
 	print result.text

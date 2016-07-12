@@ -1,5 +1,5 @@
 ### Dependency
-* Python packages `feedparser`, `lxml`
+* Python packages `feedparser`, `lxml`, `chromium/selenium`
 * `sqlite3`
 
 ### How to use
