@@ -1,6 +1,6 @@
 import requests
 import feedparser
-import re
+#import re
 import sys
 
 page_links = []
