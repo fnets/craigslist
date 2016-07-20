@@ -33,19 +33,14 @@ def main():
 		rss.append(itunes_feed_extractor.ConvertItunesLink(link)) #collects rss feeds into array
 
 	for link in rss: #go through rss array, link by link
-		soup = BeautifulSoup(str(link), 'html.parser')
 		r = feedparser.parse(str(link)) #parse each link
-		url = r['feed']["link"]
+		url = r['feed']['link']
 		for items in r.entries: #Go through episodes of each podcast
-			#print items["title"] #prints each episode title
 			title = items["title"]
-			text1 = items["summary"]
-			text = re.sub(ur'<.*?>',"", text1,re.U)
-			#text = text.split("<")[0].strip()
-			
-			#text = soup.get_text(text)
-			#text = text.encode('ascii','ignore')
-
+			text1 = items.content[0].value.encode('ascii','ignore') #this works in interpreter
+			text = re.sub(ur'<.*?>',"", text1) #this works in interpreter too
+			#text.decode() #this works in interpreter too
+			#For some reason, this code is pulling everything in the entry titled <div class='itemcontent' name='decodeable'>
 			enter_data(db_cursor, url, title, text, update_time)
 			#Should I just create CSV here?  
 
@@ -77,7 +72,7 @@ def enter_data(db_cursor, url, title, text, update_time):
 	if db_cursor.fetchone() == None: # Meaning that this tile does not exist yet
 		db_cursor.execute('''
             INSERT INTO listings
-            (url, title, text, last_update, new, found)
+            (url, title, description, last_update, new, found)
             VALUES (?, ?, ?, ?, ?, ?)''',
         (url, title, text, update_time, 1, update_time) 
         )
